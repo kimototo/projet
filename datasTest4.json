@@ -1,407 +1,56 @@
 [
     {
-      "UserName": "danie",
-      "nameDyn": "#Rapport d'avertissement.dyn",
-      "value": 6
+      "salesperson": "#Rapport d'avertissement.dyn",
+      "sales": 33
     },
     {
-      "UserName": "danie",
-      "nameDyn": "054e94e26dac458d859c82f2b8d43167.dyn",
-      "value": 6
+      "salesperson": "054e94e26dac458d859c82f2b8d43167.dyn",
+      "sales": 12
     },
     {
-      "UserName": "danie",
-      "nameDyn": "Ajout des embrasures de porte dans la surface de pièce.dyn",
-      "value": 2
+      "salesperson": "Ajout des embrasures de porte dans la surface de pièce.dyn",
+      "sales": 41
     },
     {
-      "UserName": "danie",
-      "nameDyn": "BIM Lot.dyn",
-      "value": 2
+      "salesperson": "BIM Lot.dyn",
+      "sales": 16
     },
     {
-      "UserName": "danie",
+      "salesperson": "danie",
       "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
-      "value": 2
+      "sales": 59
     },
     {
-      "UserName": "danie",
+      "salesperson": "danie",
       "nameDyn": "Changer le type de titre pour un type de vue.dyn",
-      "value": 4
+      "sales": 38
     },
     {
-      "UserName": "danie",
-      "nameDyn": "Création des paramètres SGP.dyn",
-      "value": 6
+      "salesperson": "Création des paramètres SGP.dyn",
+      "sales": 21
     },
     {
-      "UserName": "danie",
-      "nameDyn": "Création des sous-projets.dyn",
-      "value": 2
+      "salesperson": "Création des sous-projets.dyn",
+      "sales": 25
     },
     {
-      "UserName": "danie",
-      "nameDyn": "dbd4186e9db6487683cc8954dae0b753.dyn",
-      "value": 12
+      "salesperson": "dbd4186e9db6487683cc8954dae0b753.dyn",
+      "sales": 30
     },
     {
-      "UserName": "danie",
-      "nameDyn": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
-      "value": 2
+      "salesperson": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
+      "sales": 47
     },
     {
-      "UserName": "danie",
-      "nameDyn": "GroupedViewsByViewTypes.dyn",
-      "value": 2
+      "salesperson": "GroupedViewsByViewTypes.dyn",
+      "sales": 5
     },
     {
-      "UserName": "danie",
-      "nameDyn": "Heightto10.dyn",
-      "value": 2
+      "salesperson": "Heightto10.dyn",
+      "sales": 20
     },
     {
-      "UserName": "danie",
-      "nameDyn": "in.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Liste des feuilles associés à un cartouche.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Murs - Réparation Léger décallage.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Numérotation des portes.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Organisation des feuilles.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "orkestraTest.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "orkestraTestOnline.dyn",
-      "value": 94
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Quadrillages - Réparation Léger décallage.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Renseignement du BIM_LOT.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Validation des sous-projets pour les liens.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "danie",
-      "nameDyn": "Warnings - Quadrillages - Réparation Léger décallage.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "sami.yakhlef",
-      "nameDyn": "#Rapport d'avertissement.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "sami.yakhlef",
-      "nameDyn": "Ajout des embrasures de porte dans la surface de pièce.dyn",
-      "value": 34
-    },
-    {
-      "UserName": "sami.yakhlef",
-      "nameDyn": "Numérotation séquentielle des pièces avec le nom du niveau comme préfixe.dyn",
-      "value": 20
-    },
-    {
-      "UserName": "sami.yakhlef",
-      "nameDyn": "Numérotation séquentielle des pièces.dyn",
-      "value": 26
-    },
-    {
-      "UserName": "sami.yakhlef",
-      "nameDyn": "Remplacer un composant de détail par une famille.dyn",
-      "value": 12
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "0062d1c709b847bba88cda02fc53fdb4.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "01_LEG Parts dimensions.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "01960eb692eb41d9891c8a55addc920a.dyn",
-      "value": 30
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
-      "value": 10
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "045799130e8d42a78088fda39de2ff5a.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "05_MTH_Création de carnets.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "0e15e3d7eda8404a9b718f5423e976a5.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "1.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "115de3d015eb4c159b9c5849f431026d.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "1175185ed45d46899b93884918928c0e.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "191dfcfe7a2e447aa38d74dfe4b65f56.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
-      "value": 16
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "1cecafde6a2b448283c48b4ec759d0e9.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "1dc2fa6704f546908eb2d3d93c310408.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "203ff3a189364223a49bfeb66402d06b.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "2756ae888f8b4f6ea1119ca1486d32b5.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "29bcaf046dfe4fc18cb3757c87423a15.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "2d2a28792c24461bace28c1ab319867f.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "2e111c87bef748bb8a7288a7dfcf9f36.dyn",
-      "value": 10
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "31390807eba741b3bc9053eadf95382e.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "31dd60bb0113479d99372ac07afd14f7.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "35ab508697ed4e988b2dc8e665fb4668.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "3651eb09dd8e44d1b3f0809dfbd0bd96.dyn",
-      "value": 20
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "3e02628eed11444d87f8a6ae776ce87b.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "3fa3b3d94207442cbf063a836ec8b98a.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "49fe87f86ddb46d68cd47a50dcacaf11.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "695ad11a9c474e2ca86691602e7c5c71.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
-      "value": 24
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "729706b8bf9747db80d19ec4b4f855bf.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "77b97a328e1e4e4580a7152d179a43dc.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "7f050ab442cc4f519df70906b59f734a.dyn",
-      "value": 10
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "7fcd6cc332f24c01ae69d6bb00b3830f.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "84a0c3163c7a41018083a33d77b57985.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "8689f06820bf4a8b85e6a17a6f564527.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "9c6ea49ac1c545c39073501c3c9a870b.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "a24914a400684250bdbcbc0725fa87be.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "adce7a9379e749bf93fd804b86a33ae4.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "Add shared params to families.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "Add Typologies from Excel Files.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "Adjust Wall Top to Topo.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "ae2ebd5bd53f43518469097836f50822.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "af28688f8c6b4e958cc30892430fdcd1.dyn",
-      "value": 2
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "Appartement Layout By Level double ui tester.dyn",
-      "value": 6
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "Appartement Layout By Level.dyn",
-      "value": 794
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "archilabTesting.dyn",
-      "value": 14
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
-      "value": 10
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "b56b2ab15d7a4bb8bf5d57448e3db847.dyn",
-      "value": 4
-    },
-    {
-      "UserName": "jumy_",
-      "nameDyn": "b925b6ff441c450698d470f2f776249e.dyn",
-      "value": 2
+      "salesperson": "in.dyn",
+      "sales": 13
     }
 ]
