@@ -1,0 +1,7664 @@
+[
+  [
+    {
+      "UserName": "danie",
+      "nameDyn": "#Rapport d'avertissement.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "054e94e26dac458d859c82f2b8d43167.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Ajout des embrasures de porte dans la surface de pièce.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "BIM Lot.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Changer le type de titre pour un type de vue.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Création des sous-projets.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "dbd4186e9db6487683cc8954dae0b753.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "GroupedViewsByViewTypes.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Heightto10.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "in.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Liste des feuilles associés à un cartouche.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Murs - Réparation Léger décallage.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Numérotation des portes.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Organisation des feuilles.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "orkestraTest.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "orkestraTestOnline.dyn",
+      "value": 94
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Quadrillages - Réparation Léger décallage.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Validation des sous-projets pour les liens.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "danie",
+      "nameDyn": "Warnings - Quadrillages - Réparation Léger décallage.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "sami.yakhlef",
+      "nameDyn": "#Rapport d'avertissement.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "sami.yakhlef",
+      "nameDyn": "Ajout des embrasures de porte dans la surface de pièce.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "sami.yakhlef",
+      "nameDyn": "Numérotation séquentielle des pièces avec le nom du niveau comme préfixe.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "sami.yakhlef",
+      "nameDyn": "Numérotation séquentielle des pièces.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "sami.yakhlef",
+      "nameDyn": "Remplacer un composant de détail par une famille.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "jumy_",
+      "nameDyn": "0062d1c709b847bba88cda02fc53fdb4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "01960eb692eb41d9891c8a55addc920a.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "045799130e8d42a78088fda39de2ff5a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "05_MTH_Création de carnets.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "0e15e3d7eda8404a9b718f5423e976a5.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "1.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "115de3d015eb4c159b9c5849f431026d.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "1175185ed45d46899b93884918928c0e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "191dfcfe7a2e447aa38d74dfe4b65f56.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "1cecafde6a2b448283c48b4ec759d0e9.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "1dc2fa6704f546908eb2d3d93c310408.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "203ff3a189364223a49bfeb66402d06b.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "2756ae888f8b4f6ea1119ca1486d32b5.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "29bcaf046dfe4fc18cb3757c87423a15.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "2d2a28792c24461bace28c1ab319867f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "2e111c87bef748bb8a7288a7dfcf9f36.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "31390807eba741b3bc9053eadf95382e.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "31dd60bb0113479d99372ac07afd14f7.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "35ab508697ed4e988b2dc8e665fb4668.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "3651eb09dd8e44d1b3f0809dfbd0bd96.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "3e02628eed11444d87f8a6ae776ce87b.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "3fa3b3d94207442cbf063a836ec8b98a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "49fe87f86ddb46d68cd47a50dcacaf11.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "695ad11a9c474e2ca86691602e7c5c71.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "729706b8bf9747db80d19ec4b4f855bf.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "77b97a328e1e4e4580a7152d179a43dc.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "7f050ab442cc4f519df70906b59f734a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "7fcd6cc332f24c01ae69d6bb00b3830f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "84a0c3163c7a41018083a33d77b57985.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "8689f06820bf4a8b85e6a17a6f564527.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "9c6ea49ac1c545c39073501c3c9a870b.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "a24914a400684250bdbcbc0725fa87be.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "adce7a9379e749bf93fd804b86a33ae4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Add shared params to families.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Add Typologies from Excel Files.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Adjust Wall Top to Topo.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "ae2ebd5bd53f43518469097836f50822.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "af28688f8c6b4e958cc30892430fdcd1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Appartement Layout By Level double ui tester.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Appartement Layout By Level.dyn",
+      "value": 794
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "archilabTesting.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "b56b2ab15d7a4bb8bf5d57448e3db847.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "b925b6ff441c450698d470f2f776249e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "bcb4418203f44f9b8c0ace489364efa1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "BIM 360 GUID.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "c95874eb4ef249f5ab8a46c29e58d754.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "ca44ff6b260c438e86cac80f7374b348.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Création des sous-projets.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "d2f899cf2315408db74cdb036333984f.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "d62d484e03df4aa091982314a6e53442.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "def1.dyn",
+      "value": 82
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "def2.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "DemoMiaMoulay.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "df5a550ded734c76a6041d251a84a083.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "dropDownInputl.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "DS_Export_Excel_v1.0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "DS_Export_Excel.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Duplicate_Sheets_Views_NoPopUp.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "DynMessage.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "e7ffde4540744a318053777bf18d9c3d.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "e8f54771db554c6f921458795a6c0d74.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "ec1adc1e0a804c86ad13bb243137dd37.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "f457e292b9a24c4a8a3030979a0665e0.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "f7373d5e7cc94f10952d15029fcd19fd.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Feuilles - Ajouter de révisions sur feuilles.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Feuilles - Dupliquer feuilles et vues correspondantes.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "FichierTest_Chart_V2.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "FichierTest_Chart.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Générateur de Dôme.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Generation plans de vente 2.3_Choix d'appartement.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Generation plans de vente 2.4_Choix d'appartement.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Fichier Source.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Gestion - Inventaire Murs Portes Fenetres Sols.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Gestion - Inventaire Styles graphiques.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Heightto10.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "hidden in view.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Home.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "in.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "LineC3D.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "McDonalds - Batch Load Families.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Moi.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Montre.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "namosNamos.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Niveaux - Description des niveaux depuis excel.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "orkestraTest.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "orkestraTestOnline.dyn",
+      "value": 662
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Paramètres - Nettoyage par catégorie.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "pushactivation.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Quadrillages - Ajustement de l'étendue des quadrillages par niveau.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Randomize Panels.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Renuméroter les pièces.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "revitAutoUITestNoInputs.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "revitAutoUITestWithInputs.dyn",
+      "value": 108
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "revitInputsTesting.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "run.dyn",
+      "value": 118
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "rvtInputs.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "rvtInputs2021.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "ScaleFactor.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "sequence.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "SpaceGeom.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "testingUIform.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "testv.dyn",
+      "value": 488
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Ton.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "versionning.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Views - 3D par limites basse et haute.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "vizDemo.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Warnings - Murs - Réparation Léger décallage.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jumy_",
+      "nameDyn": "Warnings - Plafonds - Réparation Léger décallage.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "01 - Création des éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 174
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 70
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 138
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "49a8980d05fa4512bd4e0ed8ab7eeb1e.dyn",
+      "value": 46
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 124
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "962aa7f133eb450787491ef8ab99285a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 84
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "abd1baf45d004be6a0418edfbc56f77d.dyn",
+      "value": 54
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 62
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 96
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "df5a550ded734c76a6041d251a84a083.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "e47db6a5f4df49b28cfc541e47a107a6.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 208
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "ec5bccac7a9741fa93d943a05a15aa24.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "bastien.gouget",
+      "nameDyn": "f6e5d87ea319450a93ac359c66ede738.dyn",
+      "value": 24
+    }
+  ],
+  [
+    {
+      "UserName": "tanguy.ravalet",
+      "nameDyn": "01 - Création des éléments.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "14283",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14283",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "14283",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14283",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "14283",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "16641",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "0f390df714f14b509378b810075f2416.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "189c14a5497c489ea4e8cc0feb63a1d5.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "1ccc3abd030d4955b7d7e0612a4a1116.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "2422c344a46a444e8ac998a8ef354c61.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "2c2dd85291ef4add893eb7206f1469b3.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "4e45fbf27bcc4709946d6787eb145267.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "6c96d9fdcec54ad9a220a880b0970088.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "7f97a82ce7494b7b8a665d9c805eda79.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "964ae284e2944495b3988b53feb10a29.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "ca5bbb8854964cc7a1515653e15cd83c.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "d9c61874f3904a32be64ea4fba1fd4fd.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16641",
+      "nameDyn": "fce4ed3f5d3e45b5b0a75cd8b33a2d15.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "16763",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "158708ef4aa34f79a26cae4301b397ae.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "1e4cc0ad2e804e5aa238cd9e76f12378.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "4a1d78bb9b964b4a89d591faab6c67e6.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "6bc857bfad6c4f8e9a325f6ae8dba758.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "75b68283c8e8466fbdb174bc564a665b.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "7d0f404d985b47d6b488bf23ed17bb21.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "87a1575074114b1998f2a819134c3d2a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "947f7d72663e4db8acc6f9297bf1459d.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "a9988ada439d41f9b9a83b068934651e.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "ccc79a4a67244cd3a32ec6c1c250ccbe.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "d9c61874f3904a32be64ea4fba1fd4fd.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "f1e9a9e50fed46fda730e00cf7a7fe28.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "f5149cfc3ab14c7ba1205a841f2b1990.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "16763",
+      "nameDyn": "faba3473042644e295acf8365b8f9ad5.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16807",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "75b68283c8e8466fbdb174bc564a665b.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "7d0f404d985b47d6b488bf23ed17bb21.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "c883cf2eeb5b4bc4a313538b45a511c3.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "ccc79a4a67244cd3a32ec6c1c250ccbe.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "d9c61874f3904a32be64ea4fba1fd4fd.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "f1e9a9e50fed46fda730e00cf7a7fe28.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16807",
+      "nameDyn": "f5149cfc3ab14c7ba1205a841f2b1990.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16821",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "0f390df714f14b509378b810075f2416.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "1e3be43088c049d9a79ebf6375cc6162.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "20f3eb786ebb43759d20a5ee4b57087e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "2422c344a46a444e8ac998a8ef354c61.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "2756ae888f8b4f6ea1119ca1486d32b5.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "307197505e354361a646fb68fe636e1c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "38f6196da68c4d44a0d3d5b80a3bbd07.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "6bc857bfad6c4f8e9a325f6ae8dba758.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "77bd590c502a43d2a14df8aad8fba970.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "7a21e84578f44a848d610a09daacdda1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "7f97a82ce7494b7b8a665d9c805eda79.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "90af543c2da647f1a39bca7b339344c2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "978a5155fae5429ab62ad0ca25970603.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "979d7ad76c8b4546b8f2926e444fe8a8.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "a621f0f87e1040d790db400988573c96.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "b6b296cf761d464fa7e97b580f27dae7.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "b98f9b12162f45d8af7e2f205762c81c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "bdc55994ddcb4e3991121c7dff6e1a66.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "ce24fcd068ec40b9a63572224447a0b8.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "d75eae241dc243c3ab923af31844d16b.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "edad02c6fd1e43638fdb72d66bcf9cd3.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "f1e9a9e50fed46fda730e00cf7a7fe28.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "f5f31346a9874d239fdb9320201d5161.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "fe8dda81353e480da2bd492f956db5c2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16821",
+      "nameDyn": "PlaceModelGroupsAtPoints.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "17112",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17112",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "17112",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "17112",
+      "nameDyn": "947f7d72663e4db8acc6f9297bf1459d.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "17112",
+      "nameDyn": "c4c3e4ee49114e8b8200750bb6404121.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17112",
+      "nameDyn": "ccc79a4a67244cd3a32ec6c1c250ccbe.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "17237",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 64
+    },
+    {
+      "UserName": "17237",
+      "nameDyn": "01_AddSequenceParametersFill-Step2.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "17237",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 64
+    },
+    {
+      "UserName": "17237",
+      "nameDyn": "894298d6be754bacba8b009e8f86961c.dyn",
+      "value": 74
+    }
+  ],
+  [
+    {
+      "UserName": "17281",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "17308",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "61334",
+      "nameDyn": "01_AddSequenceParameters-Step1.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "01_AddSequenceParametersFill-Step2.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "307197505e354361a646fb68fe636e1c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "894298d6be754bacba8b009e8f86961c.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "947f7d72663e4db8acc6f9297bf1459d.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "981947f293334a7dbc3f085c4fe06d88.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "61334",
+      "nameDyn": "edad02c6fd1e43638fdb72d66bcf9cd3.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "03838",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 150
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 66
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 98
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "0e15e3d7eda8404a9b718f5423e976a5.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "962aa7f133eb450787491ef8ab99285a.dyn",
+      "value": 62
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 50
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "abd1baf45d004be6a0418edfbc56f77d.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "df5a550ded734c76a6041d251a84a083.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 68
+    },
+    {
+      "UserName": "03838",
+      "nameDyn": "ec5bccac7a9741fa93d943a05a15aa24.dyn",
+      "value": 18
+    }
+  ],
+  [
+    {
+      "UserName": "04047",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "49a8980d05fa4512bd4e0ed8ab7eeb1e.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "962aa7f133eb450787491ef8ab99285a.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 58
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "df5a550ded734c76a6041d251a84a083.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "04047",
+      "nameDyn": "ec5bccac7a9741fa93d943a05a15aa24.dyn",
+      "value": 16
+    }
+  ],
+  [
+    {
+      "UserName": "antoine.poussin",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "antoine.poussin",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "antoine.poussin",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "962aa7f133eb450787491ef8ab99285a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "abd1baf45d004be6a0418edfbc56f77d.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "cynthia.gardan",
+      "nameDyn": "ec5bccac7a9741fa93d943a05a15aa24.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "147bc84a945b4c53ac7671bf536c5ff5.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "1fdfa9f6f00341049bd85bd260997332.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "20571e2d540647cf9553a07707e12181.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Altimetrie AI AS RSV par selection.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Altimetrie AI AS RSV.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Couper RSV par selection.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Couper RSV par statut.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_FillPatternCleaner.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_LinePatternCleaner.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Purge_Materiau.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Purge_Motif de ligne.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Purge_Motif de remplissage.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_RSV_AddVoidCut_BySelection.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_RSV_AddVoidCut_ByStatus.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_RSV_AI_AS.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_STR_AI_AS_Elements.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "2x_Supprimer coupe RSV.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "384310a2127a42b7b05c22441314f84f.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "41669a6f2b0e49d5bc8fa0a3ed92b43e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "42cc65a6b57a4a8290fd12e1d091acfe.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "4705d8e8e9094d6f84d076bd8bca1fbc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "47b28f8c8f154d11aa243abeaccd47c8.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "5e8da7be0b704d748122ee65babbf57c.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "62b3435f3c844a21bb502cd06cd5cf65.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "66a52f7f26994a7aacd3b80d00ca0181.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "6d4d900a44ab4bde9645f949ba91255c.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "6e00bd97474d4a5caa0b09431dd1afdf.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "6f0504cb0b7949a8b61e8c6486d116a2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "7cfa401deeda4643bd3ca8085a71df18.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "84bfbc76ca094a0db3f2f604c0613e90.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "8e84727fe4924bb1a072693aa73f4b43.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "a7edac4417b8432c811315fafa163512.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "bd9a0f038c65493e8ec5d0e2212844f5.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "be4042ac8c374059942d356d186e11e3.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "DCN_TypeName_To_IfcName.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "efc9c1f45bd548cbb95e2c572d16f61a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "f02ef50f2d654a25a25fb73b3a0a42ca.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "f2c574ebb4aa4d179597538b9c31b633.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "f4eaaa7513054f0088fbf373b2bdbef0.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "damien.lefranc",
+      "nameDyn": "fd206aa845474b238211ad1931450a60.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 76
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "lucille.serrano",
+      "nameDyn": "ec5bccac7a9741fa93d943a05a15aa24.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "ludovic.lefol",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 16
+    }
+  ],
+  [
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "maxime.guigniou",
+      "nameDyn": "f6e5d87ea319450a93ac359c66ede738.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "quentin.robin",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 50
+    },
+    {
+      "UserName": "quentin.robin",
+      "nameDyn": "49a8980d05fa4512bd4e0ed8ab7eeb1e.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "49a8980d05fa4512bd4e0ed8ab7eeb1e.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "sabrina.zatti",
+      "nameDyn": "ec5bccac7a9741fa93d943a05a15aa24.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 72
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "49a8980d05fa4512bd4e0ed8ab7eeb1e.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 46
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "962aa7f133eb450787491ef8ab99285a.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "ae1aa454c7ef476782093ce9f7424bd9.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "df5a550ded734c76a6041d251a84a083.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "sebastien.scarrott",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "solene.defrasne",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "thomas.tran-dinh-nhu",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "thomas.tran-dinh-nhu",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "01_LEG Parts dimensions.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "02_MTH_Création de talonettes d'éléments de voiles extérieurs.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "698776a14b334e63bcaa1dc53c8d5ddc.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "9d40c68d2ccd4a588dedb624f2d083ad.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "abd1baf45d004be6a0418edfbc56f77d.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "yoann.vassaux",
+      "nameDyn": "df5a550ded734c76a6041d251a84a083.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "01960eb692eb41d9891c8a55addc920a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 162
+    },
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "1e1b7467222446a6979e3ce1396c8be0.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "8ed52a78f6bd460f8d044622a202d9f9.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "Alizee E",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 204
+    }
+  ],
+  [
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "01960eb692eb41d9891c8a55addc920a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "0f9908fe7b304649928fb07a453b9d25.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "1175185ed45d46899b93884918928c0e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "1e1b7467222446a6979e3ce1396c8be0.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "322530677a7b4c6fae81531f708a3ae9.dyn",
+      "value": 72
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "3c6553894e4841b6a10a31b6f84f897f.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "8ed52a78f6bd460f8d044622a202d9f9.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "9c6ea49ac1c545c39073501c3c9a870b.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "a7c920472a7b41d8931e46143f83be98.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "a9b00e625b074169b9a707d9f7c52cd9.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "c89ce7f84f3a4c14a5327c437e81b3a9.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Samuel V",
+      "nameDyn": "f9d358c01c7943ae9faafebd33e4c22e.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "valen",
+      "nameDyn": "01960eb692eb41d9891c8a55addc920a.dyn",
+      "value": 108
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "03e85f571d1c400793cec3aaf037590c.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "08b5a6c3b2164fe793593876ae01ebe0.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "0b571507768c4c6bab805b5bfee6e4bf.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "0febcf868b0a4f67b9f6fdf3f12a595a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "10e3554ae8544251b7b1a9508c47ac7c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "1175185ed45d46899b93884918928c0e.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "1444c0c79e5748389f49bf35ad6661ee.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "1e1b7467222446a6979e3ce1396c8be0.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "2d2a28792c24461bace28c1ab319867f.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "31390807eba741b3bc9053eadf95382e.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "31c7c17e489047a799cdc0c4ff9c2197.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "32ca136f2f0046d5bbeac51d71d5e5df.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "35b2e57650b549c7a9088a692ddb1123.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "3c6553894e4841b6a10a31b6f84f897f.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "3da6e657c0fc47b5b93d1d6c49febdef.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "45db17b0243642fdbe1129f060044ff4.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "4f9eafb4f0ad4ad0bc15c2e2e81a31c9.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "500Lines.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "57e35f64485042f5af7c3b1b6004f110.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "5c9875bf3b174888b91b09334ee9c2ad.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "5d65a13352b241d28ee1052c232e38c1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "6094dbf193e9455db6cc8f35f5be5361.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "62d76092fcc14ddbab11d35756915590.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "695ad11a9c474e2ca86691602e7c5c71.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "6b007d00664e4f85bb7827c3dc9f27ee.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "8183b98f60b14c2ca4fadbf80114416a.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "8ae3dff641794475961ad0e19155ad5c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "8ba283676a46454cacc78cc70cf03a4a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "8ed52a78f6bd460f8d044622a202d9f9.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "91abca7590954164ba58a943e2fbe28a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "9808cef58b784824a8ada0b2e0dfa617.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "a7c920472a7b41d8931e46143f83be98.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "a9b00e625b074169b9a707d9f7c52cd9.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "aa744cd459644bb8af79c178801f80bc.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "archilabTesting.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "b4e941570afc454f944fff92c4fa4d2a.dyn",
+      "value": 210
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "BarChart.dyn",
+      "value": 50
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Batch_2.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "bb80e1398cd445f98bda9772e80cb47e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "BubbleChart.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "c6ae57e7bc9844e7bd3961e11e3a285f.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Civil3D_CorridorCounterfortWall.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "da6a33ca18e2462782d98883a82b7013.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "dd3bbc84a86044afb80a033d6691c344.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "DonutChart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "DS_Calcul AI depart et fin_Sans_Choix_Categorie.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "DynMessage.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "e69af12641e5438e9cd3d668ead41af0.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "ec1adc1e0a804c86ad13bb243137dd37.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "f0c754b1d8074c4286e1dfc4ac1c3f1d.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "f11721d666f84997b6510e28a3faa699.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "f505a56088da44329b9ec6bc458c75d7.dyn",
+      "value": 88
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "f9d358c01c7943ae9faafebd33e4c22e.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "FichierTest_Chart_V2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "FichierTest_Chart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Fonction des pièces - Bar Chart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Forme_Bleue.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Gestion - Inventaire Murs Portes Fenetres Sols.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "LineC3D.dyn",
+      "value": 74
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "LineChart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "orkestraTest.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "orkestraTestOnline.dyn",
+      "value": 72
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "PointChart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Pong.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Remove Mark Values Warnings.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "TestRvt.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "testv.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Views - Rename.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "valen",
+      "nameDyn": "Vues - Renommage.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "yann.le-loch",
+      "nameDyn": "03_MTH_Phase par LEG_Etage.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "yann.le-loch",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "PMA",
+      "nameDyn": "033bee69f8114728b68de5ea43235509.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "2420aedc4eba43dfb22946cb19e974b6.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "6968dfada9e84de69ad2dc053420a0ff.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "6f249df412e6452dba18f0ddcfcc8301.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "a8913990f434441e9fcb8c5cf282aeaa.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "aaf6dd402f34470f9e8b0de83a51c36d.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PMA",
+      "nameDyn": "d97d82277dd147549df3accd811a6864.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16548",
+      "nameDyn": "036899d7914e43eab9c17738a32563f7.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 60
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "16411119c8244dc687c4d8796232669c.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "16b05b45f87c4d2da09ef65c79a85c13.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "21a9cb254b7b4a56a987e40fa7ae9b48.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "2a612e34686b46c59f63ce58399220a8.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "2a6b92eee1634f8595d52958b95139af.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "3068067a3b8f4574b11a3b1650b3bd7c.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "39cebb1cd754404481085026652a949c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "3c1e2db5659f4c11a7f5862aecc6875c.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "474f556488b6492fb48c70c803210181.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "4c529ce0fdeb4643b7d28093345d113c.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "6164b650649b464296e48cba3994b55c.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 60
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "8f98ccdb804a4ccd893123c0d663d7cd.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "90cca803fa9844d1b9ac9e5bf339704d.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "93c6f59b9f8242ddb652d417708b9590.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 56
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "a8490b5f5f7f446794c1dfb64bc321ce.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "b58e683807e74c3895f8d179e7ddf5af.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "bb3d512c3ca844c3ab65ab06cdb9ce5e.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "d913cd1adc09424f9e972925941915a4.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "ebd54b19f87b40168ee6e3f574a2e5bc.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "ec7d6238bb894be38687b793f0d3b7b8.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "fab9bfe1815b43fb89142a9f0c280005.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "fc69469f4d7045f883c7883a13d789c7.dyn",
+      "value": 398
+    },
+    {
+      "UserName": "16548",
+      "nameDyn": "ff3133191c664305a56dc93d07e68819.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "03cc0cf6976f48099e4446d4786f31f3.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "062ad093631b45a6ac7306b0783e10e1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "1444c0c79e5748389f49bf35ad6661ee.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "31dd60bb0113479d99372ac07afd14f7.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "849c4b34e5544276a74d1cf418bac4b2.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "a9b00e625b074169b9a707d9f7c52cd9.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Natacha N",
+      "nameDyn": "e7ffde4540744a318053777bf18d9c3d.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "cderippe",
+      "nameDyn": "054e94e26dac458d859c82f2b8d43167.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "309ff5c7d5d947538830f48cd9339cc9.dyn",
+      "value": 52
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 86
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "ca44ff6b260c438e86cac80f7374b348.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "Changer le type de titre pour un type de vue.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "cderippe",
+      "nameDyn": "f9a779cf496c477eb3dd994ecc239a48.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "14690",
+      "nameDyn": "055a98c3b22d446793ff63f038841261.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14690",
+      "nameDyn": "2f48078944ab4582bbdbefde20f299b0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14690",
+      "nameDyn": "a621f0f87e1040d790db400988573c96.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14690",
+      "nameDyn": "b805490155e6483bab02119acfafd7e3.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "15117",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "20f3eb786ebb43759d20a5ee4b57087e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "4ac2bc177563471590324bc069f0f6ba.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "6bc857bfad6c4f8e9a325f6ae8dba758.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "71c5883aed0e4f65ac6d2d634dda4465.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15117",
+      "nameDyn": "bdc55994ddcb4e3991121c7dff6e1a66.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "17019",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "09136c1f48714e249defcd1c4481fd02.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "0f5afc6bbdf0488f9425b76f97b5df4a.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "27b10360dd8e43d9b80c3f1ee5624627.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "40b7c6d3d01148e6ae8013b21e3339dc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "4f145c5728db4b2b89a56c07e0b819fb.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "894298d6be754bacba8b009e8f86961c.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "9b7dd4c299314300b7a5fda2281af56b.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "abdf4217e9f140fc863b980e2f40e6fc.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "ea01fb83ef564c57aab3dfd0941daabc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "ee7b1c2b8ad7473dba7a22e01979fc63.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17019",
+      "nameDyn": "f339cad504a24f708b39276b5674c0fe.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "81413",
+      "nameDyn": "06087081e0194969b0fb55326768f8dd.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "81413",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "81413",
+      "nameDyn": "77bd590c502a43d2a14df8aad8fba970.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "81413",
+      "nameDyn": "894298d6be754bacba8b009e8f86961c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "81413",
+      "nameDyn": "944a823b24334f3cab24cafff40fbbc8.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "81413",
+      "nameDyn": "f1235b1d70f641558c966829e1fab43e.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "062ad093631b45a6ac7306b0783e10e1.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "1e1b7467222446a6979e3ce1396c8be0.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "5c9875bf3b174888b91b09334ee9c2ad.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "8ed52a78f6bd460f8d044622a202d9f9.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 58
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "a758581142da4e4d9ae94b88597f0284.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "aa744cd459644bb8af79c178801f80bc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Leonardo V",
+      "nameDyn": "f0c754b1d8074c4286e1dfc4ac1c3f1d.dyn",
+      "value": 42
+    }
+  ],
+  [
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "07446b2cadb54736bc8886e50f2ab317.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "0b571507768c4c6bab805b5bfee6e4bf.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "0d6251c23a1a41ea8867d87b5f29b1fe.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "10be5a866f81452bb3e1dd50043c74ed.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "10e3554ae8544251b7b1a9508c47ac7c.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 50
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "1e1b7467222446a6979e3ce1396c8be0.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "2d2a28792c24461bace28c1ab319867f.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "3da6e657c0fc47b5b93d1d6c49febdef.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "404f10aa5f90415ebd1ac8fd4e9da4ae.dyn",
+      "value": 40
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "57e35f64485042f5af7c3b1b6004f110.dyn",
+      "value": 40
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "5c9875bf3b174888b91b09334ee9c2ad.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "6094dbf193e9455db6cc8f35f5be5361.dyn",
+      "value": 132
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "77b97a328e1e4e4580a7152d179a43dc.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "7fcd6cc332f24c01ae69d6bb00b3830f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "849c4b34e5544276a74d1cf418bac4b2.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "8ba283676a46454cacc78cc70cf03a4a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "8ed52a78f6bd460f8d044622a202d9f9.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "9c6ea49ac1c545c39073501c3c9a870b.dyn",
+      "value": 46
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "c4fa38e2d7db4dc685cac3295b32d6bd.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "c6ae57e7bc9844e7bd3961e11e3a285f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "d2f899cf2315408db74cdb036333984f.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 150
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "e69af12641e5438e9cd3d668ead41af0.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "f1e198e8f1a0475186c85fa613355eb1.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "Ronan C",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 20
+    }
+  ],
+  [
+    {
+      "UserName": "be-46",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "b0c26c1dce6841dca4258d67196eee46.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "d802ab4a09214efba871913345f8ea5e.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "be-46",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "david.buand",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "david.buand",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "david.buand",
+      "nameDyn": "Création du paramètre BIM Lot.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "david.buand",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "david.buand",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "1af993fa7ac74b1f9c071dc31dfb7bff.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "671721d4236043d79888024f79409a1b.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "9205a4d1d8cd42df9aaeccce37242334.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "etienne.dronval",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "LLCI",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "16fb5424538c4bbeb6fdc37b3face500.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "b0c26c1dce6841dca4258d67196eee46.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "BIM Lot.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "Création du paramètre BIM Lot.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "d802ab4a09214efba871913345f8ea5e.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 60
+    },
+    {
+      "UserName": "marielle.martin",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "MW4116",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "MW4116",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "MW4116",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "MW4116",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "MW4116",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 64
+    }
+  ],
+  [
+    {
+      "UserName": "pc-14",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "pc-14",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "pc-14",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "pc-14",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "PO2052",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PO2052",
+      "nameDyn": "16fb5424538c4bbeb6fdc37b3face500.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PO2052",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "PO2052",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "b0c26c1dce6841dca4258d67196eee46.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "d802ab4a09214efba871913345f8ea5e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "portable-hz",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Production",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Production",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "Production",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Production",
+      "nameDyn": "d802ab4a09214efba871913345f8ea5e.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Production",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "TW6210",
+      "nameDyn": "07a045525cbb44d8a4f0078552ed7e6a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "TW6210",
+      "nameDyn": "b0c26c1dce6841dca4258d67196eee46.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "TW6210",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "TW6210",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "TW6210",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "TW6210",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "ahanson",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "1f72b2478567487da777e6501d3119ad.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 54
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "60109e118cf449eca445f6452f6dae74.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "ahanson",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "dfoth",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "1c278589f31648ba89c178386e10791d.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "1f72b2478567487da777e6501d3119ad.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "6968dfada9e84de69ad2dc053420a0ff.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "dfoth",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "DJones",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "DJones",
+      "nameDyn": "1a9e24108c354aa0bcf05f4aeaa8e2e1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "DJones",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "DJones",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "DJones",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "dmlsna",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "dmlsna",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "eeven",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "jhoch",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 50
+    },
+    {
+      "UserName": "jhoch",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jhoch",
+      "nameDyn": "4e01a4f4d5a5498586552242d1e56113.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jhoch",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jhoch",
+      "nameDyn": "7cc059fce7304a27a6c8fecc975c9ef4.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "jhoch",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jhoch",
+      "nameDyn": "f011cdafd4e242709b311f6330c3871a.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "jlemm",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 96
+    }
+  ],
+  [
+    {
+      "UserName": "mformo",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "mformo",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "mformo",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "mformo",
+      "nameDyn": "73885258542340139f941b1015b80258.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "mformo",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "mformo",
+      "nameDyn": "a0377cf325244a8ebb47843d441f586b.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "mformo",
+      "nameDyn": "eb88b2ac57c147e7bbb31207255b855f.dyn",
+      "value": 38
+    }
+  ],
+  [
+    {
+      "UserName": "npicht",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "1a9e24108c354aa0bcf05f4aeaa8e2e1.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "npicht",
+      "nameDyn": "f011cdafd4e242709b311f6330c3871a.dyn",
+      "value": 16
+    }
+  ],
+  [
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 46
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "1106a5a1b53c453fba5e9247b0e050ce.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "1c278589f31648ba89c178386e10791d.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 40
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "2e03d845bb1348e696c908643bb9a5dd.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "422474a937824cdaa5156392a7514389.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "4e01a4f4d5a5498586552242d1e56113.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "6261b34a2e014f8e8e5b278dc2bcb54e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "6968dfada9e84de69ad2dc053420a0ff.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "747ff0c3f159423b89d0b77f1256488a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "7cc059fce7304a27a6c8fecc975c9ef4.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "7fb900cdca794d66ba995cbf4c64f321.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "c2439d1894ca4e708bd684963225efdc.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "e51173962cee4dc99aec6c60ac71961d.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "ea94da61a74d4b46809de586bb25352f.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "eb88b2ac57c147e7bbb31207255b855f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rdeardorff",
+      "nameDyn": "f011cdafd4e242709b311f6330c3871a.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "totto",
+      "nameDyn": "07c6f3aea3c94efc83d914de4cb89977.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "122ae201d3f040f7b4a709b2c0acbf27.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "373d1c6164b04552a75b9e0727426187.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "81276dc5af754ea090e45e498f890089.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "totto",
+      "nameDyn": "f268358a4ff2447da8309d9a2f70d9ed.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "14255",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "0e09cfe3324546d6840b3dfbbd5d34c7.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "13cfd3eed8fb449da4894752a8beb8fc.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "13ed3b5e01f648e7a3dcd952de18f6aa.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "1ccc3abd030d4955b7d7e0612a4a1116.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "204c031b57f54afdb80c13b3f7385402.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "2422c344a46a444e8ac998a8ef354c61.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "29c0a5edb6314543b7e78a3aa01224f8.dyn",
+      "value": 42
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "2c2dd85291ef4add893eb7206f1469b3.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "34a415f914474d659736c9d3aac49242.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "36f1e29c53ca423c9dce1bf3a9f6832c.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "4e45fbf27bcc4709946d6787eb145267.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "6b14945c43454ceca600ae6a0e7c5e3a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "91d28acaf28e42208250b639230795b2.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "a2d00130988340dbbdb69cecf8ed80d9.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "ca5bbb8854964cc7a1515653e15cd83c.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "df6c05a8eeb34ef19d7dfed48bb7e85d.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "14255",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "15660",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15660",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "15660",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "15660",
+      "nameDyn": "Room Finishes Mapping.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "15959",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15959",
+      "nameDyn": "6bc857bfad6c4f8e9a325f6ae8dba758.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "15996",
+      "nameDyn": "08_ Duplicate Sheets_Beta.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "08_ Duplicate Sheets.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "2f48078944ab4582bbdbefde20f299b0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "4efddf1574cd4b15abfec6e8eeea1563.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "a621f0f87e1040d790db400988573c96.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "b805490155e6483bab02119acfafd7e3.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "b98f9b12162f45d8af7e2f205762c81c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15996",
+      "nameDyn": "de3c905fafff404faf4e158477a3afb8.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "temes",
+      "nameDyn": "08b00a111c45460cbccfe50ae48ea711.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "0beff577fa3d41ceb853122d782384ab.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "1.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "15b7e236f7ea433a8c36d92fec525d29.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "2.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "2f9a34c2168f471496640598dcc3cef1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "3.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "4fbdbe6974f543a88922856011d5b991.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "5ba7725f40254bf2889f3227522925dd.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "6aca0b38d53c41cfb680dfa5b348556a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "a32e19dff600431bb6a9772525be456f.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Appartement Layout By Level.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "BarChart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Check Family Version.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "de2f971a4e184408b1046a2ccaddd96d.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "DemoMiaMoulay.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "DS_Export_Excel_Renamed_for_V12_test.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "DS_Export_Excel_v1.0.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "DS_Export_Excel.dyn",
+      "value": 52
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "DS_Import_Excel_v1.0.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "f11721d666f84997b6510e28a3faa699.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Fléchage fluides.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Liste des feuilles associés à un cartouche.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "LoadFamiliesFromDetails.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Moi.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Montre.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "MutualiseHangers.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Niveaux - Importation des niveaux depuis Excel.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "orkestraTestOnline.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Paramètres de l'arborescence.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "PieChart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "PointChart.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Prefixage des Sous-Projets.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Prefixage des Vues Livrables.dyn",
+      "value": 108
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Rename Materials.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "RéseauxEtiquettesCoupes.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "revitAutoUITestWithInputs.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Supportages_python.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Supportages.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Supprimer des Motifs de lignes et des Matériaux.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "SymbolesFluides.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "Ton.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "vizDemo.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "temes",
+      "nameDyn": "xxx.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Hind L",
+      "nameDyn": "0d257475551e4d35a2780f402ea83700.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "Hind L",
+      "nameDyn": "79947a7be18743f09192970fc91c050a.dyn",
+      "value": 356
+    },
+    {
+      "UserName": "Hind L",
+      "nameDyn": "a758581142da4e4d9ae94b88597f0284.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Hind L",
+      "nameDyn": "a9b00e625b074169b9a707d9f7c52cd9.dyn",
+      "value": 132
+    },
+    {
+      "UserName": "Hind L",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Hind L",
+      "nameDyn": "f0c754b1d8074c4286e1dfc4ac1c3f1d.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "Hind L",
+      "nameDyn": "f7373d5e7cc94f10952d15029fcd19fd.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "0d36ec0fc5db448b8e851c1fb6bd7dc5.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "6261b34a2e014f8e8e5b278dc2bcb54e.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "ac9549d8dd49401389adc040148f61c8.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jscherrer",
+      "nameDyn": "d8262f9423e24b4f9c573010dfcacf4a.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "14505",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 108
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "3c1e2db5659f4c11a7f5862aecc6875c.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "474f556488b6492fb48c70c803210181.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 56
+    },
+    {
+      "UserName": "14505",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 34
+    }
+  ],
+  [
+    {
+      "UserName": "15445",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 98
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "3c1e2db5659f4c11a7f5862aecc6875c.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "5b4ddfbf845b47f99a18d5f2f3c13b2f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 64
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 66
+    },
+    {
+      "UserName": "15445",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 130
+    }
+  ],
+  [
+    {
+      "UserName": "15450",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 150
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 42
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "3c1e2db5659f4c11a7f5862aecc6875c.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 126
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 40
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 52
+    },
+    {
+      "UserName": "15450",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 136
+    }
+  ],
+  [
+    {
+      "UserName": "16047",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 96
+    },
+    {
+      "UserName": "16047",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "16047",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 154
+    },
+    {
+      "UserName": "16047",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 48
+    },
+    {
+      "UserName": "16047",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 134
+    }
+  ],
+  [
+    {
+      "UserName": "16321",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "16321",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "16321",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16321",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16321",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16321",
+      "nameDyn": "b58e683807e74c3895f8d179e7ddf5af.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "16321",
+      "nameDyn": "ec7d6238bb894be38687b793f0d3b7b8.dyn",
+      "value": 48
+    }
+  ],
+  [
+    {
+      "UserName": "16378",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 32
+    },
+    {
+      "UserName": "16378",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16378",
+      "nameDyn": "3c1e2db5659f4c11a7f5862aecc6875c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16378",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "16378",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16378",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "16378",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 20
+    }
+  ],
+  [
+    {
+      "UserName": "16527",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16527",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16527",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16527",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16527",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16676",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "474f556488b6492fb48c70c803210181.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "9af9042b13e1410781247a957e840a8f.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "16676",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 38
+    }
+  ],
+  [
+    {
+      "UserName": "16731",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16731",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "17316",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "24d41d0cc1014c3898e397c85b3e0076.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "3c1e2db5659f4c11a7f5862aecc6875c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "474f556488b6492fb48c70c803210181.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "72c977de464540ffa6a102dac57f83bb.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "8d8c59c4dab146fb8684b59382d2f347.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "17316",
+      "nameDyn": "9e93c153a2ff4fbabacba8919f0dfb78.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "17357",
+      "nameDyn": "0d706bac00ec4622bff1ff8f2ba7cd5f.dyn",
+      "value": 32
+    },
+    {
+      "UserName": "17357",
+      "nameDyn": "3b1dedf4e08f43d48716c880e4ae6c3f.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "afegter",
+      "nameDyn": "0f145f28128f4c6db37024a31f7abc38.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "373d1c6164b04552a75b9e0727426187.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "81276dc5af754ea090e45e498f890089.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "93801c0e139e4d9692585ac41c693628.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "a4cc45eda429451a8ece206167f65c79.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "ac9549d8dd49401389adc040148f61c8.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "afegter",
+      "nameDyn": "d97d82277dd147549df3accd811a6864.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "16565",
+      "nameDyn": "0f5afc6bbdf0488f9425b76f97b5df4a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16565",
+      "nameDyn": "27b10360dd8e43d9b80c3f1ee5624627.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "16565",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "16565",
+      "nameDyn": "9b7dd4c299314300b7a5fda2281af56b.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16565",
+      "nameDyn": "ad340ef1eb484f64a90d2ac7d4d1492c.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "16565",
+      "nameDyn": "f339cad504a24f708b39276b5674c0fe.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "ahali",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahali",
+      "nameDyn": "11014b6e081949cd9d2a4f73cd75c9c7.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahali",
+      "nameDyn": "1271a7c35b0442afbb2b755470c50d01.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "ahali",
+      "nameDyn": "25e0e7948c6545fa9e3f28d57c5ee4b2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahali",
+      "nameDyn": "3651eb09dd8e44d1b3f0809dfbd0bd96.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahali",
+      "nameDyn": "4243838b04b3474598d8b2e701b13ea3.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ahali",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "1c8df011c5d846dda4d513451b093f20.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "1d8d0bcd2389438aa05fc16a67988a6a.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "25e0e7948c6545fa9e3f28d57c5ee4b2.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "3cade6c57c9b4613bb3201ca8a36d4af.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "435a6547140841fa87ee8e134e793f04.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "Feuilles - Alignement de vues par feuille de référence.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "carmen.dominguez",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 60
+    }
+  ],
+  [
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "1c8df011c5d846dda4d513451b093f20.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "1d8d0bcd2389438aa05fc16a67988a6a.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "25e0e7948c6545fa9e3f28d57c5ee4b2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "435a6547140841fa87ee8e134e793f04.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 190
+    },
+    {
+      "UserName": "charline.lalanne",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "charlotte.gerald",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "charlotte.gerald",
+      "nameDyn": "3cade6c57c9b4613bb3201ca8a36d4af.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "charlotte.gerald",
+      "nameDyn": "729706b8bf9747db80d19ec4b4f855bf.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "charlotte.gerald",
+      "nameDyn": "bcb4418203f44f9b8c0ace489364efa1.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "charlotte.gerald",
+      "nameDyn": "c2882f0e5e3c4ffca1655f298bce2bc2.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "charlotte.gerald",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "UserName": "françois.gallet",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "françois.gallet",
+      "nameDyn": "1c8df011c5d846dda4d513451b093f20.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "françois.gallet",
+      "nameDyn": "3cade6c57c9b4613bb3201ca8a36d4af.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "françois.gallet",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 54
+    },
+    {
+      "UserName": "françois.gallet",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 46
+    }
+  ],
+  [
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "11014b6e081949cd9d2a4f73cd75c9c7.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "191dfcfe7a2e447aa38d74dfe4b65f56.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "3651eb09dd8e44d1b3f0809dfbd0bd96.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "4957d7cd4fa847a79f84da9051267d07.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Elements - Change Type Materials to different Materials.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Etiquettes - Aligner les étiquettes de pièces au point de référence.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "fdb621ab60f5477d9d46f61c896af68c.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Feuilles - Dupliquer feuilles et vues correspondantes.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 118
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Fichier Source.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 44
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Gestion - Suppression de doublons.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Pièces - Centrer le point de référence des pièces - Par Niveau.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Pièces - Etiquetage en masse par type de vue et echelle.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Pièces - Suppression de pièces non placées.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Randomisation - Stores.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Warnings - Murs - Réparation Léger décallage.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Warnings - Plafonds - Réparation Léger décallage.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Warnings - Quadrillages - Réparation Léger décallage.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Warnings - Sols - Réparation Léger décallage.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Warnings - Suppression des doublons v1.0.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "hugo.janvier",
+      "nameDyn": "Warnings - Suppression des doublons.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "louison.baroth",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "louison.baroth",
+      "nameDyn": "1d8d0bcd2389438aa05fc16a67988a6a.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "louison.baroth",
+      "nameDyn": "435a6547140841fa87ee8e134e793f04.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "louison.baroth",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 74
+    },
+    {
+      "UserName": "louison.baroth",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "louison.baroth",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "michele-matteo.marco",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "michele-matteo.marco",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "orlando.gonzalez",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "orlando.gonzalez",
+      "nameDyn": "1c8df011c5d846dda4d513451b093f20.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "orlando.gonzalez",
+      "nameDyn": "1d8d0bcd2389438aa05fc16a67988a6a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "orlando.gonzalez",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 56
+    }
+  ],
+  [
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "1c8df011c5d846dda4d513451b093f20.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "435a6547140841fa87ee8e134e793f04.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "Nomenclature - importation tableau excel dans key schedule.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "Paramètres - Nettoyage par catégorie.dyn",
+      "value": 50
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "Pièces - Suppression de pièces non placées.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "rozenn.balay",
+      "nameDyn": "Views - 3D par limites basse et haute.dyn",
+      "value": 26
+    }
+  ],
+  [
+    {
+      "UserName": "sarah.elmzwari",
+      "nameDyn": "0fd3af68096341468c44784bf5380c5c.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "sarah.elmzwari",
+      "nameDyn": "1d8d0bcd2389438aa05fc16a67988a6a.dyn",
+      "value": 34
+    },
+    {
+      "UserName": "sarah.elmzwari",
+      "nameDyn": "435a6547140841fa87ee8e134e793f04.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "sarah.elmzwari",
+      "nameDyn": "b3bc8c792b6542c292e48b81c5c0133d.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "sarah.elmzwari",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 164
+    },
+    {
+      "UserName": "sarah.elmzwari",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "10e3554ae8544251b7b1a9508c47ac7c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "1444c0c79e5748389f49bf35ad6661ee.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "2d2a28792c24461bace28c1ab319867f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "77b97a328e1e4e4580a7152d179a43dc.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "7fcd6cc332f24c01ae69d6bb00b3830f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "849c4b34e5544276a74d1cf418bac4b2.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "8ba283676a46454cacc78cc70cf03a4a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "9808cef58b784824a8ada0b2e0dfa617.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "Lamine B",
+      "nameDyn": "c2f5eab43ba3499389532c7644724db1.dyn",
+      "value": 26
+    }
+  ],
+  [
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "1175185ed45d46899b93884918928c0e.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "32ca136f2f0046d5bbeac51d71d5e5df.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "45db17b0243642fdbe1129f060044ff4.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "6b007d00664e4f85bb7827c3dc9f27ee.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "DS_Export_Excel_v1.0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "DS_Import_Excel_v1.0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Data Shapes",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "1175185ed45d46899b93884918928c0e.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "7fa2fc4a6478414aa529d501e96cca85.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "Appartement Layout By Level.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "def1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "DS_Export_Excel_v1.0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "Generation plans de vente 2.4_Choix d'appartement.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "Home.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "orkestraTestOnline.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "revitAutoUITestWithInputs.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "SpotDimensions.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Orkestra",
+      "nameDyn": "updateVal.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "mbistodeau",
+      "nameDyn": "122ae201d3f040f7b4a709b2c0acbf27.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "mbistodeau",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "mbistodeau",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16954",
+      "nameDyn": "13cfd3eed8fb449da4894752a8beb8fc.dyn",
+      "value": 110
+    },
+    {
+      "UserName": "16954",
+      "nameDyn": "13ed3b5e01f648e7a3dcd952de18f6aa.dyn",
+      "value": 830
+    },
+    {
+      "UserName": "16954",
+      "nameDyn": "3d34a6e83297464db7eeb3a86eeef664.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16954",
+      "nameDyn": "7f97a82ce7494b7b8a665d9c805eda79.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16954",
+      "nameDyn": "8bd5fa41fcae400f97b71d6c4a057996.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16954",
+      "nameDyn": "df6c05a8eeb34ef19d7dfed48bb7e85d.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "71028",
+      "nameDyn": "13cfd3eed8fb449da4894752a8beb8fc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "71028",
+      "nameDyn": "13ed3b5e01f648e7a3dcd952de18f6aa.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "Denise I",
+      "nameDyn": "1444c0c79e5748389f49bf35ad6661ee.dyn",
+      "value": 178
+    },
+    {
+      "UserName": "Denise I",
+      "nameDyn": "31dd60bb0113479d99372ac07afd14f7.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "Denise I",
+      "nameDyn": "e7ffde4540744a318053777bf18d9c3d.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Denise I",
+      "nameDyn": "f1e198e8f1a0475186c85fa613355eb1.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "Sarah B",
+      "nameDyn": "1444c0c79e5748389f49bf35ad6661ee.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Sarah B",
+      "nameDyn": "7fcd6cc332f24c01ae69d6bb00b3830f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Sarah B",
+      "nameDyn": "849c4b34e5544276a74d1cf418bac4b2.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Sarah B",
+      "nameDyn": "8ba283676a46454cacc78cc70cf03a4a.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "dpost",
+      "nameDyn": "1599fcea10f145e29ff2e17b69db7c76.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dpost",
+      "nameDyn": "18526d020e6942cca67d1028c6990e37.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dpost",
+      "nameDyn": "63d166c1f04c401e86060866ff9df1bf.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dpost",
+      "nameDyn": "747ff0c3f159423b89d0b77f1256488a.dyn",
+      "value": 20
+    }
+  ],
+  [
+    {
+      "UserName": "16105",
+      "nameDyn": "16411119c8244dc687c4d8796232669c.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16105",
+      "nameDyn": "35f2c3910c5948ac8f0ced91de1e6159.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16105",
+      "nameDyn": "ebd54b19f87b40168ee6e3f574a2e5bc.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "ismael.mbeirick",
+      "nameDyn": "16fb5424538c4bbeb6fdc37b3face500.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ismael.mbeirick",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "ismael.mbeirick",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "ismael.mbeirick",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "ismael.mbeirick",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "18526d020e6942cca67d1028c6990e37.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "1c278589f31648ba89c178386e10791d.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "20b4a452e7c749f3b492cc5b40dffc33.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "22c7ef0c5a004b93a505f02835eb9173.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "2420aedc4eba43dfb22946cb19e974b6.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "35a662809c624e8daae18c0366b90152.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "531296b4b7094120877a9e4487786acd.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "7cc059fce7304a27a6c8fecc975c9ef4.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "caaa4a9e02f04dfdadd6fa267c212732.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "swaterhouse",
+      "nameDyn": "f268358a4ff2447da8309d9a2f70d9ed.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "1874866d24bf402c91b353acc212a39c.dyn",
+      "value": 42
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "5c9875bf3b174888b91b09334ee9c2ad.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "79947a7be18743f09192970fc91c050a.dyn",
+      "value": 158
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "a758581142da4e4d9ae94b88597f0284.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "DS_Export_Excel_v1.0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "f0c754b1d8074c4286e1dfc4ac1c3f1d.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Marie-Astrid H",
+      "nameDyn": "f7373d5e7cc94f10952d15029fcd19fd.dyn",
+      "value": 44
+    }
+  ],
+  [
+    {
+      "UserName": "16664",
+      "nameDyn": "189c14a5497c489ea4e8cc0feb63a1d5.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16664",
+      "nameDyn": "7f97a82ce7494b7b8a665d9c805eda79.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "16791",
+      "nameDyn": "189c14a5497c489ea4e8cc0feb63a1d5.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "Alexandre C",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Alexandre C",
+      "nameDyn": "8ba283676a46454cacc78cc70cf03a4a.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Alexandre C",
+      "nameDyn": "aa744cd459644bb8af79c178801f80bc.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Alexandre C",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Alexandre C",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 20
+    }
+  ],
+  [
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 48
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "77b97a328e1e4e4580a7152d179a43dc.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "849c4b34e5544276a74d1cf418bac4b2.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 60
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "a24914a400684250bdbcbc0725fa87be.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "dcf09cc593a54fe39697aef8cabe3560.dyn",
+      "value": 108
+    },
+    {
+      "UserName": "Laurent LC",
+      "nameDyn": "e69af12641e5438e9cd3d668ead41af0.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "1a33a86c62c747f79eebf62746046728.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "1e1b7467222446a6979e3ce1396c8be0.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "6094dbf193e9455db6cc8f35f5be5361.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "8ba283676a46454cacc78cc70cf03a4a.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "8ed52a78f6bd460f8d044622a202d9f9.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "b9d7aa69afba479ca610ce8c8da682a0.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "d2f899cf2315408db74cdb036333984f.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "Lucie D",
+      "nameDyn": "f1e198e8f1a0475186c85fa613355eb1.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "eschaller",
+      "nameDyn": "1a9e24108c354aa0bcf05f4aeaa8e2e1.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "eschaller",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "eschaller",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "15577",
+      "nameDyn": "1b2c4a0d02b342a0bfb5ea30e6479131.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15577",
+      "nameDyn": "4a1d78bb9b964b4a89d591faab6c67e6.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "cmoran",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "73885258542340139f941b1015b80258.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "7fb900cdca794d66ba995cbf4c64f321.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "cmoran",
+      "nameDyn": "b601fcc91ce0479ba82b4debc8ec9561.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "dsackett",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dsackett",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "hdickinson",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "hdickinson",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "hdickinson",
+      "nameDyn": "60109e118cf449eca445f6452f6dae74.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "jlochowski",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jlochowski",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jlochowski",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "jlochowski",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jlochowski",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "1f72b2478567487da777e6501d3119ad.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "20b4a452e7c749f3b492cc5b40dffc33.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "7fb900cdca794d66ba995cbf4c64f321.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "JMcCabe",
+      "nameDyn": "a887d3a020aa46b6abfb95c1ff7771a2.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "jordner",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jordner",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jordner",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jordner",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jordner",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "kbeck",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "kbeck",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "kbeck",
+      "nameDyn": "73885258542340139f941b1015b80258.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "kbeck",
+      "nameDyn": "7fb900cdca794d66ba995cbf4c64f321.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "kbeck",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "kbeck",
+      "nameDyn": "b601fcc91ce0479ba82b4debc8ec9561.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "kvang",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "1f72b2478567487da777e6501d3119ad.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "85d23c0b526b4aa79d5b3594f12863fe.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "kvang",
+      "nameDyn": "d97d82277dd147549df3accd811a6864.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "mhuerta",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "mhuerta",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "molson",
+      "nameDyn": "1c6e3cca54be4d888ad2656568135940.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "15493",
+      "nameDyn": "1e3be43088c049d9a79ebf6375cc6162.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "15493",
+      "nameDyn": "7a21e84578f44a848d610a09daacdda1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "15493",
+      "nameDyn": "PlaceModelGroupsAtPoints.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16834",
+      "nameDyn": "1e4cc0ad2e804e5aa238cd9e76f12378.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16834",
+      "nameDyn": "87a1575074114b1998f2a819134c3d2a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "16834",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "gaelle.rolland",
+      "nameDyn": "20571e2d540647cf9553a07707e12181.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "gaelle.rolland",
+      "nameDyn": "6d4d900a44ab4bde9645f949ba91255c.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "gaelle.rolland",
+      "nameDyn": "f96bf7d5a36046e891759df7a9791251.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "gaelle.rolland",
+      "nameDyn": "ffc5a7e2223a45e3ba83b42a1c6f54e4.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16840",
+      "nameDyn": "20f3eb786ebb43759d20a5ee4b57087e.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16840",
+      "nameDyn": "4ac2bc177563471590324bc069f0f6ba.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16840",
+      "nameDyn": "90af543c2da647f1a39bca7b339344c2.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "16840",
+      "nameDyn": "979d7ad76c8b4546b8f2926e444fe8a8.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "16840",
+      "nameDyn": "Room Finishes Mapping.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "15733",
+      "nameDyn": "2756ae888f8b4f6ea1119ca1486d32b5.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15733",
+      "nameDyn": "752e3a318866407c83bf49d92a72f56b.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "15733",
+      "nameDyn": "fe8dda81353e480da2bd492f956db5c2.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "jflores",
+      "nameDyn": "27acfe69c6724a7f8deb1ce1491ab729.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "27acfe69c6724a7f8deb1ce1491ab729.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "309ff5c7d5d947538830f48cd9339cc9.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "549c6d478f6644449d45c8d746a98b27.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "70fbaa8f8cc941c88c04fcdb7f7414d9.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "9abca13decd84bbaafed8a55db98ee25.dyn",
+      "value": 108
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 82
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jleclerc",
+      "nameDyn": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "16592",
+      "nameDyn": "27b10360dd8e43d9b80c3f1ee5624627.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "16592",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 36
+    },
+    {
+      "UserName": "16592",
+      "nameDyn": "abdf4217e9f140fc863b980e2f40e6fc.dyn",
+      "value": 114
+    }
+  ],
+  [
+    {
+      "UserName": "ycourteille",
+      "nameDyn": "2b646a57aba84ac1bb0bd826b5d61f4f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ycourteille",
+      "nameDyn": "70fbaa8f8cc941c88c04fcdb7f7414d9.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "ycourteille",
+      "nameDyn": "f9a779cf496c477eb3dd994ecc239a48.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "86006",
+      "nameDyn": "2c2dd85291ef4add893eb7206f1469b3.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "86006",
+      "nameDyn": "5b4ddfbf845b47f99a18d5f2f3c13b2f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "86006",
+      "nameDyn": "769d46f6174047649aea1ec99bf441c7.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "86006",
+      "nameDyn": "947f7d72663e4db8acc6f9297bf1459d.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "86006",
+      "nameDyn": "edad02c6fd1e43638fdb72d66bcf9cd3.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "Aziz Z",
+      "nameDyn": "2d2a28792c24461bace28c1ab319867f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Aziz Z",
+      "nameDyn": "31dd60bb0113479d99372ac07afd14f7.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Aziz Z",
+      "nameDyn": "d2f899cf2315408db74cdb036333984f.dyn",
+      "value": 30
+    },
+    {
+      "UserName": "Aziz Z",
+      "nameDyn": "e7ffde4540744a318053777bf18d9c3d.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "Aziz Z",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "17032",
+      "nameDyn": "307197505e354361a646fb68fe636e1c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "17032",
+      "nameDyn": "981947f293334a7dbc3f085c4fe06d88.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "17032",
+      "nameDyn": "edad02c6fd1e43638fdb72d66bcf9cd3.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "Marie G",
+      "nameDyn": "31390807eba741b3bc9053eadf95382e.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Marie G",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "brozanski",
+      "nameDyn": "373d1c6164b04552a75b9e0727426187.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "brozanski",
+      "nameDyn": "73885258542340139f941b1015b80258.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "brozanski",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "17166",
+      "nameDyn": "3e4ce80f1e5246c59442e7503aee651c.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "17166",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "nicolase",
+      "nameDyn": "3f649160e80e46ac80fdc9cfcb2b8de0.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "nicolase",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "nicolase",
+      "nameDyn": "7eeb6ba60a214c97932edde23e396379.dyn",
+      "value": 46
+    },
+    {
+      "UserName": "nicolase",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "jcarlson",
+      "nameDyn": "422474a937824cdaa5156392a7514389.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "42a5a52a042f4879aeb0e685c2fd25a0.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "Changer le type de titre pour un type de vue.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "e92ce0ea4bbb4fcc8a63fc618e4ea1b9.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "jloiseau",
+      "nameDyn": "Organisation des feuilles.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "Virginie C",
+      "nameDyn": "45db17b0243642fdbe1129f060044ff4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Virginie C",
+      "nameDyn": "79947a7be18743f09192970fc91c050a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "Virginie C",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "Virginie C",
+      "nameDyn": "a758581142da4e4d9ae94b88597f0284.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "Virginie C",
+      "nameDyn": "f7373d5e7cc94f10952d15029fcd19fd.dyn",
+      "value": 96
+    },
+    {
+      "UserName": "Virginie C",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Lien.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 46
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "529e213a9d12469aa24af04b05b65970.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "9abca13decd84bbaafed8a55db98ee25.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "Changer le type de titre pour un type de vue.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "e92ce0ea4bbb4fcc8a63fc618e4ea1b9.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "f9a779cf496c477eb3dd994ecc239a48.dyn",
+      "value": 32
+    },
+    {
+      "UserName": "eleturgie",
+      "nameDyn": "Organisation des feuilles.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "lbiais",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "lbiais",
+      "nameDyn": "b39118b6a12644a7b8e3dfc0c4d348cf.dyn",
+      "value": 234
+    },
+    {
+      "UserName": "lbiais",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "lbiais",
+      "nameDyn": "Changer le cartouche sur plusieurs feuilles.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "rbigand",
+      "nameDyn": "4733c49215264ae493dc02d43fa91541.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "rbigand",
+      "nameDyn": "b39118b6a12644a7b8e3dfc0c4d348cf.dyn",
+      "value": 54
+    },
+    {
+      "UserName": "rbigand",
+      "nameDyn": "c8c1eecf84234399a789cb45d781ef04.dyn",
+      "value": 66
+    }
+  ],
+  [
+    {
+      "UserName": "bfrance",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "bfrance",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 26
+    },
+    {
+      "UserName": "bfrance",
+      "nameDyn": "6233a2b99e4a49d289e5470ce9099a3f.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "bfrance",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "bfrance",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "zstender",
+      "nameDyn": "492c3ec2c2a54eddbc4dbb081051cc32.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "zstender",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "zstender",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "charles.fagegaltier",
+      "nameDyn": "49a8980d05fa4512bd4e0ed8ab7eeb1e.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "charles.fagegaltier",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "charles.fagegaltier",
+      "nameDyn": "b9c38f3b59984647a710aabc4e4311b1.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "charles.fagegaltier",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "charles.fagegaltier",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "16963",
+      "nameDyn": "4ac2bc177563471590324bc069f0f6ba.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "17226",
+      "nameDyn": "4ac2bc177563471590324bc069f0f6ba.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "15746",
+      "nameDyn": "4efddf1574cd4b15abfec6e8eeea1563.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "15746",
+      "nameDyn": "de3c905fafff404faf4e158477a3afb8.dyn",
+      "value": 28
+    }
+  ],
+  [
+    {
+      "UserName": "Daniel",
+      "nameDyn": "500Lines.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "Daniel",
+      "nameDyn": "Forme_Bleue.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Daniel",
+      "nameDyn": "LineC3D.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "adechast",
+      "nameDyn": "543d4eed437e44a5af4bbf5d8724f8e4.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "mlepoutr",
+      "nameDyn": "543d4eed437e44a5af4bbf5d8724f8e4.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "aclapper",
+      "nameDyn": "59b9cb6d0be4432eb8a0e39d92dae85c.dyn",
+      "value": 18
+    }
+  ],
+  [
+    {
+      "UserName": "bseward",
+      "nameDyn": "59b9cb6d0be4432eb8a0e39d92dae85c.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "dholte",
+      "nameDyn": "59b9cb6d0be4432eb8a0e39d92dae85c.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "dholte",
+      "nameDyn": "c4dcc068d2864894811375bb08b20f0e.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "zsperos",
+      "nameDyn": "59b9cb6d0be4432eb8a0e39d92dae85c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "zsperos",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "zsperos",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "zsperos",
+      "nameDyn": "c4dcc068d2864894811375bb08b20f0e.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "adeters",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "adeters",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "adeters",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "adeters",
+      "nameDyn": "b601fcc91ce0479ba82b4debc8ec9561.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "agriebie",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 24
+    },
+    {
+      "UserName": "agriebie",
+      "nameDyn": "60109e118cf449eca445f6452f6dae74.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "agriebie",
+      "nameDyn": "80eccddfb7ad420887fc3ca1a53a8884.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "arustad",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "dmathiason",
+      "nameDyn": "5def20079d204bf4a429159112764d22.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dmathiason",
+      "nameDyn": "73885258542340139f941b1015b80258.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "dmathiason",
+      "nameDyn": "832f9408c3a74701ac604649c6352ef4.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "dmathiason",
+      "nameDyn": "c4dcc068d2864894811375bb08b20f0e.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "04062",
+      "nameDyn": "6535a53a404c4859a9f480c873a98648.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "04062",
+      "nameDyn": "6d4d900a44ab4bde9645f949ba91255c.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "04062",
+      "nameDyn": "6e00bd97474d4a5caa0b09431dd1afdf.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "04062",
+      "nameDyn": "84bfbc76ca094a0db3f2f604c0613e90.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "04062",
+      "nameDyn": "a7edac4417b8432c811315fafa163512.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "MLopez",
+      "nameDyn": "6968dfada9e84de69ad2dc053420a0ff.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "81479",
+      "nameDyn": "6bc857bfad6c4f8e9a325f6ae8dba758.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "81479",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "81479",
+      "nameDyn": "d75eae241dc243c3ab923af31844d16b.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "15168",
+      "nameDyn": "6c01340f93d946709638949c09e36978.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "magali.courte",
+      "nameDyn": "6e00bd97474d4a5caa0b09431dd1afdf.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "magali.courte",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "magali.courte",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "17245",
+      "nameDyn": "710a816a3b56434997a7ecad84937da1.dyn",
+      "value": 38
+    },
+    {
+      "UserName": "17245",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "17245",
+      "nameDyn": "ca5bbb8854964cc7a1515653e15cd83c.dyn",
+      "value": 18
+    },
+    {
+      "UserName": "17245",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "12160",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "12160",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "12580",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "12580",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "13973",
+      "nameDyn": "715c63a175e046e2b2f4e57bf01cb115.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "13973",
+      "nameDyn": "ea98172562b44accba2375da8b3cd680.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "sneaton",
+      "nameDyn": "747ff0c3f159423b89d0b77f1256488a.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "Hugues W",
+      "nameDyn": "79947a7be18743f09192970fc91c050a.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "Hugues W",
+      "nameDyn": "8c1b8712d02d4cd485e5dc55ae30e7c6.dyn",
+      "value": 36
+    }
+  ],
+  [
+    {
+      "UserName": "ylann.amand",
+      "nameDyn": "7f050ab442cc4f519df70906b59f734a.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "15233",
+      "nameDyn": "8d00ac5de8f34ed38f5dde1e49cb97b6.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "15233",
+      "nameDyn": "f1e9a9e50fed46fda730e00cf7a7fe28.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "MLR",
+      "nameDyn": "91881bf9f43c4d52a60e694c5689e061.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "14493",
+      "nameDyn": "979d7ad76c8b4546b8f2926e444fe8a8.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "14493",
+      "nameDyn": "Room Finishes Mapping.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Julie M",
+      "nameDyn": "9c6ea49ac1c545c39073501c3c9a870b.dyn",
+      "value": 46
+    }
+  ],
+  [
+    {
+      "UserName": "Leonardo Villaroel",
+      "nameDyn": "a2ba445f54d5462499beab605776fbe2.dyn",
+      "value": 14
+    },
+    {
+      "UserName": "Leonardo Villaroel",
+      "nameDyn": "a758581142da4e4d9ae94b88597f0284.dyn",
+      "value": 14
+    }
+  ],
+  [
+    {
+      "UserName": "17235",
+      "nameDyn": "a621f0f87e1040d790db400988573c96.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "16600",
+      "nameDyn": "abdf4217e9f140fc863b980e2f40e6fc.dyn",
+      "value": 66
+    }
+  ],
+  [
+    {
+      "UserName": "claire.haton",
+      "nameDyn": "ae671de16edf409d8741dea1a1067f8a.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "claire.haton",
+      "nameDyn": "b0a11683113a40cfbda65f35f7442d46.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "claire.haton",
+      "nameDyn": "b97ec5f498104c569dd0c430715b08d5.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "claire.haton",
+      "nameDyn": "bdc48112b32c4e2fb8824c9d59b16adb.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "claire.haton",
+      "nameDyn": "e82f16f4e7244244a7f4840c4bdcd2f1.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "FT5355",
+      "nameDyn": "b0c26c1dce6841dca4258d67196eee46.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "FT5355",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "FT5355",
+      "nameDyn": "Création du paramètre BIM Lot.dyn",
+      "value": 28
+    },
+    {
+      "UserName": "FT5355",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "FT5355",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 20
+    }
+  ],
+  [
+    {
+      "UserName": "VJ6169",
+      "nameDyn": "b0c26c1dce6841dca4258d67196eee46.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "VJ6169",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "VJ6169",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "VJ6169",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "joseph",
+      "nameDyn": "Calcul des surfaces brutes sans la façade - Ensemble.dyn",
+      "value": 30
+    }
+  ],
+  [
+    {
+      "UserName": "HugoMERCURIN",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "HugoMERCURIN",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "HugoMERCURIN",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "Maël",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "Maël",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Maël",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 8
+    },
+    {
+      "UserName": "Maël",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 22
+    }
+  ],
+  [
+    {
+      "UserName": "ZN5799",
+      "nameDyn": "Création des paramètres SGP.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "ZN5799",
+      "nameDyn": "Création du paramètre BIM Lot.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ZN5799",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "ZN5799",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 4
+    }
+  ],
+  [
+    {
+      "UserName": "fbousaleh",
+      "nameDyn": "Création du paramètre BIM_LOT.dyn",
+      "value": 16
+    },
+    {
+      "UserName": "fbousaleh",
+      "nameDyn": "Rapport d'éléments.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "fbousaleh",
+      "nameDyn": "Renseignement du BIM_LOT.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "fbousaleh",
+      "nameDyn": "Suppression de BIM_lot.dyn",
+      "value": 12
+    }
+  ],
+  [
+    {
+      "UserName": "16030",
+      "nameDyn": "de3c905fafff404faf4e158477a3afb8.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "jen.gullett",
+      "nameDyn": "Duplicate_Sheets_Views_NoPopUp.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "15727",
+      "nameDyn": "ec7d6238bb894be38687b793f0d3b7b8.dyn",
+      "value": 16
+    }
+  ],
+  [
+    {
+      "UserName": "julia.gousset",
+      "nameDyn": "Etiquettes - Aligner les étiquettes de pièces au point de référence.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "julia.gousset",
+      "nameDyn": "Feuilles - Alignement de vues par feuille de référence.dyn",
+      "value": 64
+    },
+    {
+      "UserName": "julia.gousset",
+      "nameDyn": "Feuilles - Alignement vues selectionnées.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "julia.gousset",
+      "nameDyn": "Randomisation - Stores.dyn",
+      "value": 6
+    }
+  ],
+  [
+    {
+      "UserName": "eric.dupre",
+      "nameDyn": "f96bf7d5a36046e891759df7a9791251.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "17199",
+      "nameDyn": "fe8dda81353e480da2bd492f956db5c2.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Feuilles - Alignement de vues par feuille de référence.dyn",
+      "value": 12
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Feuilles - Création de feuilles par vues.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Feuilles - Nom de la feuille par nom de la vue.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Gestion - Importation séléctive de Gabarit depuis Fichier Source.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Niveaux - Description des niveaux depuis excel.dyn",
+      "value": 22
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Niveaux - Importation des niveaux depuis Excel.dyn",
+      "value": 2
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Paramètres - Nettoyage par catégorie.dyn",
+      "value": 6
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Pièces - Suppression de pièces non placées.dyn",
+      "value": 20
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Views - Rename.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Vues - Ajouter description niveau v1.0 .dyn",
+      "value": 24
+    },
+    {
+      "UserName": "heloise.guilmin",
+      "nameDyn": "Vues - Renommage.dyn",
+      "value": 60
+    }
+  ],
+  [
+    {
+      "UserName": "audrey.mirocha",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 4
+    },
+    {
+      "UserName": "audrey.mirocha",
+      "nameDyn": "Nomenclature - importation tableau excel dans key schedule.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "NAOM",
+      "nameDyn": "Gabarits - Importation séléctive de Gabarit (et ses filtres) depuis Lien v1.0.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "nicolas.maes",
+      "nameDyn": "Gestion - Inventaire Styles graphiques.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "15484",
+      "nameDyn": "PlaceModelGroupsAtPoints.dyn",
+      "value": 2
+    }
+  ],
+  [
+    {
+      "UserName": "mathilde.florentin",
+      "nameDyn": "Randomisation - Stores.dyn",
+      "value": 8
+    }
+  ],
+  [
+    {
+      "UserName": "nicolas.jomain",
+      "nameDyn": "Views - 3D par limites basse et haute.dyn",
+      "value": 10
+    }
+  ],
+  [
+    {
+      "UserName": "rafael.cunha",
+      "nameDyn": "Vue - Coupe brisée  - a partir d'une courbe v1.0.dyn",
+      "value": 10
+    },
+    {
+      "UserName": "rafael.cunha",
+      "nameDyn": "Vue - Coupe brisée  - a partir de droites v1.0.dyn",
+      "value": 2
+    }
+  ]
+]
