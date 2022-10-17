@@ -1,54 +1,46 @@
 [
     {
-      "salesperson": "#Rapport d'avertissement.dyn",
-      "sales": 33
+      "name": "#Rapport d'avertissement.dyn",
+      "amounts": 33
     },
     {
-      "salesperson": "054e94e26dac458d859c82f2b8d43167.dyn",
-      "sales": 12
+      "name": "054e94e26dac458d859c82f2b8d43167.dyn",
+      "amounts": 12
     },
     {
-      "salesperson": "Ajout des embrasures de porte dans la surface de pièce.dyn",
-      "sales": 41
+      "name": "Ajout des embrasures de porte dans la surface de pièce.dyn",
+      "amounts": 41
     },
     {
-      "salesperson": "BIM Lot.dyn",
-      "sales": 16
+      "name": "BIM Lot.dyn",
+      "amounts": 16
     },
     {
-      "salesperson": "danie",
-      "sales": 59
-    },
-    {
-      "salesperson": "danie",
-      "sales": 38
-    },
-    {
-      "salesperson": "Création des paramètres SGP.dyn",
+      "name": "Création des paramètres SGP.dyn",
       "sales": 21
     },
     {
-      "salesperson": "Création des sous-projets.dyn",
-      "sales": 25
+      "name": "Création des sous-projets.dyn",
+      "amounts": 25
     },
     {
-      "salesperson": "dbd4186e9db6487683cc8954dae0b753.dyn",
-      "sales": 30
+      "name": "dbd4186e9db6487683cc8954dae0b753.dyn",
+      "amounts": 30
     },
     {
-      "salesperson": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
-      "sales": 47
+      "name": "ed48b3437d6b4a4099ad5ef5bce26dda.dyn",
+      "amounts": 47
     },
     {
-      "salesperson": "GroupedViewsByViewTypes.dyn",
-      "sales": 5
+      "name": "GroupedViewsByViewTypes.dyn",
+      "amounts": 5
     },
     {
-      "salesperson": "Heightto10.dyn",
-      "sales": 20
+      "name": "Heightto10.dyn",
+      "amounts": 20
     },
     {
-      "salesperson": "in.dyn",
-      "sales": 13
+      "name": "in.dyn",
+      "amounts": 13
     }
 ]
