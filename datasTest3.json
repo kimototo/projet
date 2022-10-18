@@ -1,30 +1,34 @@
 [
     {
-      "Country": "Unitates States",
-      "Value": 13000
+      "sent_time": "2013-04-05",
+      "messages_sent_in_day": 1
     },
     {
-      "Country": "Russia",
-      "Value": 7300
+      "sent_time": "2013-05-29",
+      "messages_sent_in_day": 2
     },
     {
-      "Country": "Germany",
-      "Value": 1770
+      "sent_time": "2013-07-13",
+      "messages_sent_in_day": 7
     },
     {
-      "Country": "France",
-      "Value": 2270
+      "sent_time": "2013-07-17",
+      "messages_sent_in_day": 10
     },
     {
-      "Country": "Unitated Kingdom",
-      "Value": 1570
+      "sent_time": "2015-08-20",
+      "messages_sent_in_day": 3
     },
     {
-      "Country": "China",
-      "Value": 1530
+      "sent_time": "2015-09-06",
+      "messages_sent_in_day": 6
     },
     {
-      "Country": "Spain",
-      "Value": 1470
+      "sent_time": "2017-09-08",
+      "messages_sent_in_day": 10
+    },
+    {
+      "sent_time": "2017-10-17",
+      "messages_sent_in_day": 17
     }
 ]
